@@ -1,0 +1,11 @@
+0 silly argv { _: [ 'init' ], lernaVersion: '3.15.0', '$0': 'lerna' }
+1 notice cli v3.15.0
+2 verbose rootPath /Users/manasi/Desktop/nodejsApps/learnaApps
+3 verbose init skipping validations
+4 verbose init skipping preparations
+5 info Initializing Git repository
+6 error Error: Command failed: git init
+6 error xcode-select: note: no developer tools were found at '/Applications/Xcode.app', requesting install. Choose an option in the dialog to download the command line developer tools.
+6 error
+6 error     at makeError (/usr/local/lib/node_modules/lerna/node_modules/execa/index.js:174:9)
+6 error     at Promise.all.then.arr (/usr/local/lib/node_modules/lerna/node_modules/execa/index.js:278:16)
