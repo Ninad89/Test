@@ -2,8 +2,8 @@
 
 > TODO: description
 
-## Usage
-
+### Usage
+# Ninad Mahajan
 ```
 const pkg1 = require('pkg1');
 
